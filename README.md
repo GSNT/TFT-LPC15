@@ -16,5 +16,6 @@ To control or program devices a TFT board is a nice tool, so let's see if we can
 	* USB connector
 	* UART connector (for ISP)
 	* CAN
-	* 2.8" TFT with Touch Panel 
+	* 2.8" TFT with Touch Panel
+	* RTC
 	  
