@@ -18,4 +18,9 @@ To control or program devices a TFT board is a nice tool, so let's see if we can
 	* CAN
 	* 2.8" TFT with Touch Panel
 	* RTC
-	  
+
+### First Version - 18.11.2014
+
+First Version...
+
+![](https://raw.github.com/GSNT/TFT-LPC15/master/V1_0.jpg)
