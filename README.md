@@ -15,9 +15,9 @@ To control or program devices a TFT board is a nice tool, so let's see if we can
 	* SWD connector (for LPC-Link2)
 	* USB connector
 	* UART connector (for ISP)
-	* CAN
+	* CAN transceiver
 	* 2.8" TFT with Touch Panel
-	* RTC
+	* RTC & Battery (CR2032)
 
 ### First Version - 18.11.2014
 
