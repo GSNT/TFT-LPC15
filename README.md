@@ -12,12 +12,13 @@ To control or program devices a TFT board is a nice tool, so let's see if we can
 ### Features - 15.11.2014
 
 	* LPC1549 LQFP64 package
-	* SWD connector (for LPC-Link2)
-	* USB connector
-	* UART connector (for ISP)
-	* CAN transceiver
+	* SWD connector (-> LPC-Link2)
+	* USB connector (-> ISP)
+	* UART connector (-> ISP)
+	* CAN transceiver (->ISP)
 	* 2.8" TFT with Touch Panel
 	* RTC & Battery (CR2032)
+	* 2x5 header (SPI...)
 
 ### First Version - 18.11.2014
 
