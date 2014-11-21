@@ -31,3 +31,9 @@ First Version...
 Second Version with RTC battery...
 
 ![](https://raw.github.com/GSNT/TFT-LPC15/master/V1_1.jpg)
+
+### PCB - 20.11.2014
+
+The third version as PCB...
+
+![](https://raw.github.com/GSNT/TFT-LPC15/master/PCB_1.jpg)
