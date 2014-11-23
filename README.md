@@ -37,3 +37,9 @@ Second Version with RTC battery...
 The third version as PCB...
 
 ![](https://raw.github.com/GSNT/TFT-LPC15/master/PCB_1.jpg)
+
+### Software - 22.11.2014
+
+First LCD functions...
+
+![](https://raw.github.com/GSNT/TFT-LPC15/master/PCB_2.jpg)
