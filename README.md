@@ -52,5 +52,9 @@ Reading TP values, calibrating and storing settings in EEPROM...
 
 ![](https://raw.github.com/GSNT/TFT-LPC15/master/TP_1.jpg)
 
+### Software Touch Panel - 25.11.2014
+
 Using buttons and a simple menu is working without problems so far...
+
+![](https://raw.github.com/GSNT/TFT-LPC15/master/TP_2.jpg)
 
