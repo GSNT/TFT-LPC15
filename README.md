@@ -38,8 +38,19 @@ The third version as PCB...
 
 ![](https://raw.github.com/GSNT/TFT-LPC15/master/PCB_1.jpg)
 
-### Software - 22.11.2014
+### Software LCD - 22.11.2014
 
 First LCD functions...
 
 ![](https://raw.github.com/GSNT/TFT-LPC15/master/PCB_2.jpg)
+
+...let's start with ADC to read the Touch panel...
+
+### Software Touch Panel - 24.11.2014
+
+Reading TP values, calibrating and storing settings in EEPROM...
+
+![](https://raw.github.com/GSNT/TFT-LPC15/master/TP_1.jpg)
+
+Using buttons an a simple Menu is working without problems so far...
+
